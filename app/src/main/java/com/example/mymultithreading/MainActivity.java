@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn_main_three = findViewById(R.id.btn_main_three);
         btn_main_four = findViewById(R.id.btn_main_four);
         btn_main_five = findViewById(R.id.btn_main_five);
-        btn_main_six = findViewById(R.id.btn_main_five);
+        btn_main_six = findViewById(R.id.btn_main_six);
         btn_main_seven = findViewById(R.id.btn_main_seven);
-        btn_main_eight = findViewById(R.id.btn_main_seven);
+        btn_main_eight = findViewById(R.id.btn_main_eight);
 
         btn_main_one.setOnClickListener(this);
         btn_main_two.setOnClickListener(this);
